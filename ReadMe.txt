@@ -12,4 +12,4 @@
 
 3.Calculate community 
     #if data start from 0~9376 then in bisection nb_nodes = 9377, nodes = 9376
-	-./bisec  filename.bin
+	-./bisec  -i filename.bin
